@@ -13,6 +13,8 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+    /*I put this in to bring our navigation options to the same level as our logo*/
+    display: inline-flex;
 }
 
 .header h1 {
@@ -23,7 +25,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*Added section to match section change(instead of div tag) in markup*/
 .header section {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,11 +33,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* Added nav instead of div to match markup */
 .header nav ul {
     list-style-type: none;
 }
-
+/*Added nav to replace div*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
