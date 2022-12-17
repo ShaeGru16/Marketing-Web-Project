@@ -7,7 +7,6 @@ A more functinal website with updated HTML semantics and properly functioning CS
 -Description
 -Installation
 -Usage
--Credits
 -License
 
 
@@ -22,11 +21,21 @@ Or, access this live URL here:
 
 ## Usage 
 
-* The HTML `<pre>` element is very literal about spaces and indentation. To gain a better understanding of how to work with it, check out this article on [considerations for styling the pre tag](https://css-tricks.com/considerations-styling-pre-tag/).
+'''md
+![alt text](assets/images/1.png)
+'''
+'''md
+![alt text](assets/images/2.png)
+'''
+'''md
+![alt text](assets/images/3.png)
+'''
 
-## 🏆 Bonus
+## License
 
-* Set this project up in your own GitHub repositories so that you can deploy and use it for future reference!
+MIT License.
+
+Please refer to the associated license that can be viewed in the GitHub repository.
 
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
