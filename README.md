@@ -16,7 +16,7 @@ Step 1: Accessing Github Repository "Marketing-Web-Project" by owner ShaeGru16
 Step 2: Heading to Pages
 Step 3: Clicking live url
 
-Or, access this live URL here:
+Or, access this live URL here: https://shaegru16.github.io/Marketing-Web-Project/
 
 
 ## Usage 
